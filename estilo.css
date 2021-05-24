@@ -1,0 +1,78 @@
+  * { padding: 0; 
+    margin: 0; 
+    border: 0;
+    box-sizing: border-box;
+}
+/*Estilo Geral */
+@import url('https://fonts.googleapis.com/css2? family = Big + Ombros + Display & display = swap');
+
+body{
+  background-image:url('nasa1.gif');
+  background-size:cover;
+  font-family: 'Big Shoulders Display';
+}
+
+input { 
+  border-bottom: 2px solid #E0E0E0;
+  padding: 10px;
+  font-size: 2rem;
+  border-radius: 30px;
+  margin-bottom:20px;
+  color:rgb(58, 56, 56);
+  background-color: rgb(204, 190, 190);
+}
+#botao {
+  width: 150px;
+  height: 50px;
+  font-size: 1rem;
+  border-radius: 30px;
+  margin-top: 20px;
+  text-transform: uppercase;
+  background-color: rgb(204, 190, 190);
+  color:rgb(58, 56, 56);
+}
+#titulo{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: aliceblue;
+}
+#imagem {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 40px;
+  color: aliceblue;
+}
+#video {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 40px;
+  color: aliceblue;
+}
+#texto {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: aliceblue;
+}
+ 
+h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 40px;
+  color: aliceblue;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #292828;
+  color: white;
+}
+
+
+  
